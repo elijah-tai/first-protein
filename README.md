@@ -1,5 +1,6 @@
-# originproject
-Have you ever wondered how life came to be? Can a Github repo help answer the origins of life?
+# protein or the egg
+
+What was the first protein to ever be created? Did the gene come first or did there need to be proteins first to transcribe and translate it? These are the dumb questions I was pondering.
 
 ## Basic Building Blocks of Life
 
